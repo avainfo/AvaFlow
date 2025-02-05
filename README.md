@@ -59,7 +59,7 @@ To run Ava Flow locally, you'll need:
     ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]("https://opensource.org/license/mit") file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For questions or support, please reach out to avainfoconseils@gmail.com.
